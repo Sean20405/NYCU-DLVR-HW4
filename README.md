@@ -1,6 +1,6 @@
 # NYCU DLVR HW4: Image Restoration
 
-![image](report/assets/image-restoration.png)
+![image](report/assets/image_restoration.png)
 
 >[!NOTE]
 > Author: 何義翔 (Yi-Hsiang, Ho)  
